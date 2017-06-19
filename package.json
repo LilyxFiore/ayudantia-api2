@@ -1,0 +1,24 @@
+{
+  "name": "ayudantia-api-2",
+  "version": "1.0.0",
+  "description": "Ayudantía de API N° 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "AJAX",
+    "JSON",
+    "HTML",
+    "JS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
